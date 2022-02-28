@@ -89,5 +89,7 @@ h3 {
 
 .footer-link {
 	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+	text-decoration: none;
 }
 
